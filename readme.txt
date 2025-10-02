@@ -74,7 +74,7 @@ This means they will not be displayed in the output of 'terraform apply' or 'ter
 To reveal the values, use the following command:
 
 terraform output active_password
-terraform output active
+terraform output backup_password
 
 ------------------------------------------------------------
 Notes
