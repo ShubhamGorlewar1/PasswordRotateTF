@@ -36,7 +36,7 @@ Steps:
 
 1. Navigate to the examples directory:
 
-   cd Terraform_Password_Gen_Module/examples
+   cd examples/
 
 2. Update main.tf variables as needed.
    Example:
